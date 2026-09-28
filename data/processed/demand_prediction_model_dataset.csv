@@ -1,0 +1,497 @@
+Equipment,Equipment_Category,Year,Month_Number,Quarter,Historical_Demand_Lag_1,Historical_Demand_Lag_2,Historical_Demand_Rolling_3M,Historical_Demand_Rolling_6M,Historical_Demand_Trend_2M,Monthly_Demand,Previous_Month_Business_Demand
+BiPAP Machine,Respiratory Equipment,2024,1,1,,,,,,7,
+CPAP Machine,Respiratory Equipment,2024,1,1,,,,,,7,
+Commode Chair,Mobility Equipment,2024,1,1,,,,,,10,
+ECG Machine,Diagnostic Equipment,2024,1,1,,,,,,3,
+Fowler Bed,Patient Care Equipment,2024,1,1,,,,,,1,
+Hospital Bed,Patient Care Equipment,2024,1,1,,,,,,6,
+Infusion Pump,Critical Care Equipment,2024,1,1,,,,,,1,
+Nebulizer,Respiratory Equipment,2024,1,1,,,,,,3,
+Oxygen Concentrator,Respiratory Equipment,2024,1,1,,,,,,8,
+Patient Monitor,Monitoring Equipment,2024,1,1,,,,,,4,
+Suction Machine,Surgical Equipment,2024,1,1,,,,,,3,
+Surgical Headlight,Surgical Equipment,2024,1,1,,,,,,1,
+Surgical Loupe,Surgical Equipment,2024,1,1,,,,,,1,
+Ventilator,Critical Care Equipment,2024,1,1,,,,,,1,
+Walker,Mobility Equipment,2024,1,1,,,,,,4,
+Wheelchair,Mobility Equipment,2024,1,1,,,,,,10,
+BiPAP Machine,Respiratory Equipment,2024,2,1,7.0,,7.0,7.0,,4,70.0
+CPAP Machine,Respiratory Equipment,2024,2,1,7.0,,7.0,7.0,,15,70.0
+Commode Chair,Mobility Equipment,2024,2,1,10.0,,10.0,10.0,,5,70.0
+ECG Machine,Diagnostic Equipment,2024,2,1,3.0,,3.0,3.0,,4,70.0
+Fowler Bed,Patient Care Equipment,2024,2,1,1.0,,1.0,1.0,,8,70.0
+Hospital Bed,Patient Care Equipment,2024,2,1,6.0,,6.0,6.0,,16,70.0
+Infusion Pump,Critical Care Equipment,2024,2,1,1.0,,1.0,1.0,,0,70.0
+Nebulizer,Respiratory Equipment,2024,2,1,3.0,,3.0,3.0,,5,70.0
+Oxygen Concentrator,Respiratory Equipment,2024,2,1,8.0,,8.0,8.0,,9,70.0
+Patient Monitor,Monitoring Equipment,2024,2,1,4.0,,4.0,4.0,,2,70.0
+Suction Machine,Surgical Equipment,2024,2,1,3.0,,3.0,3.0,,3,70.0
+Surgical Headlight,Surgical Equipment,2024,2,1,1.0,,1.0,1.0,,0,70.0
+Surgical Loupe,Surgical Equipment,2024,2,1,1.0,,1.0,1.0,,3,70.0
+Ventilator,Critical Care Equipment,2024,2,1,1.0,,1.0,1.0,,2,70.0
+Walker,Mobility Equipment,2024,2,1,4.0,,4.0,4.0,,5,70.0
+Wheelchair,Mobility Equipment,2024,2,1,10.0,,10.0,10.0,,12,70.0
+BiPAP Machine,Respiratory Equipment,2024,3,1,4.0,7.0,5.5,5.5,-3.0,2,93.0
+CPAP Machine,Respiratory Equipment,2024,3,1,15.0,7.0,11.0,11.0,8.0,4,93.0
+Commode Chair,Mobility Equipment,2024,3,1,5.0,10.0,7.5,7.5,-5.0,5,93.0
+ECG Machine,Diagnostic Equipment,2024,3,1,4.0,3.0,3.5,3.5,1.0,3,93.0
+Fowler Bed,Patient Care Equipment,2024,3,1,8.0,1.0,4.5,4.5,7.0,5,93.0
+Hospital Bed,Patient Care Equipment,2024,3,1,16.0,6.0,11.0,11.0,10.0,16,93.0
+Infusion Pump,Critical Care Equipment,2024,3,1,0.0,1.0,0.5,0.5,-1.0,2,93.0
+Nebulizer,Respiratory Equipment,2024,3,1,5.0,3.0,4.0,4.0,2.0,8,93.0
+Oxygen Concentrator,Respiratory Equipment,2024,3,1,9.0,8.0,8.5,8.5,1.0,5,93.0
+Patient Monitor,Monitoring Equipment,2024,3,1,2.0,4.0,3.0,3.0,-2.0,2,93.0
+Suction Machine,Surgical Equipment,2024,3,1,3.0,3.0,3.0,3.0,0.0,6,93.0
+Surgical Headlight,Surgical Equipment,2024,3,1,0.0,1.0,0.5,0.5,-1.0,0,93.0
+Surgical Loupe,Surgical Equipment,2024,3,1,3.0,1.0,2.0,2.0,2.0,1,93.0
+Ventilator,Critical Care Equipment,2024,3,1,2.0,1.0,1.5,1.5,1.0,3,93.0
+Walker,Mobility Equipment,2024,3,1,5.0,4.0,4.5,4.5,1.0,2,93.0
+Wheelchair,Mobility Equipment,2024,3,1,12.0,10.0,11.0,11.0,2.0,8,93.0
+BiPAP Machine,Respiratory Equipment,2024,4,2,2.0,4.0,4.333333333333333,4.333333333333333,-2.0,12,72.0
+CPAP Machine,Respiratory Equipment,2024,4,2,4.0,15.0,8.666666666666666,8.666666666666666,-11.0,9,72.0
+Commode Chair,Mobility Equipment,2024,4,2,5.0,5.0,6.666666666666667,6.666666666666667,0.0,8,72.0
+ECG Machine,Diagnostic Equipment,2024,4,2,3.0,4.0,3.333333333333333,3.333333333333333,-1.0,1,72.0
+Fowler Bed,Patient Care Equipment,2024,4,2,5.0,8.0,4.666666666666667,4.666666666666667,-3.0,11,72.0
+Hospital Bed,Patient Care Equipment,2024,4,2,16.0,16.0,12.666666666666666,12.666666666666666,0.0,9,72.0
+Infusion Pump,Critical Care Equipment,2024,4,2,2.0,0.0,1.0,1.0,2.0,1,72.0
+Nebulizer,Respiratory Equipment,2024,4,2,8.0,5.0,5.333333333333333,5.333333333333333,3.0,4,72.0
+Oxygen Concentrator,Respiratory Equipment,2024,4,2,5.0,9.0,7.333333333333333,7.333333333333333,-4.0,12,72.0
+Patient Monitor,Monitoring Equipment,2024,4,2,2.0,2.0,2.6666666666666665,2.6666666666666665,0.0,3,72.0
+Suction Machine,Surgical Equipment,2024,4,2,6.0,3.0,4.0,4.0,3.0,4,72.0
+Surgical Headlight,Surgical Equipment,2024,4,2,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,4,72.0
+Surgical Loupe,Surgical Equipment,2024,4,2,1.0,3.0,1.6666666666666667,1.6666666666666667,-2.0,3,72.0
+Ventilator,Critical Care Equipment,2024,4,2,3.0,2.0,2.0,2.0,1.0,2,72.0
+Walker,Mobility Equipment,2024,4,2,2.0,5.0,3.6666666666666665,3.6666666666666665,-3.0,1,72.0
+Wheelchair,Mobility Equipment,2024,4,2,8.0,12.0,10.0,10.0,-4.0,17,72.0
+BiPAP Machine,Respiratory Equipment,2024,5,2,12.0,2.0,6.0,6.25,10.0,3,101.0
+CPAP Machine,Respiratory Equipment,2024,5,2,9.0,4.0,9.333333333333334,8.75,5.0,15,101.0
+Commode Chair,Mobility Equipment,2024,5,2,8.0,5.0,6.0,7.0,3.0,8,101.0
+ECG Machine,Diagnostic Equipment,2024,5,2,1.0,3.0,2.6666666666666665,2.75,-2.0,7,101.0
+Fowler Bed,Patient Care Equipment,2024,5,2,11.0,5.0,8.0,6.25,6.0,9,101.0
+Hospital Bed,Patient Care Equipment,2024,5,2,9.0,16.0,13.666666666666666,11.75,-7.0,15,101.0
+Infusion Pump,Critical Care Equipment,2024,5,2,1.0,2.0,1.0,1.0,-1.0,3,101.0
+Nebulizer,Respiratory Equipment,2024,5,2,4.0,8.0,5.666666666666667,5.0,-4.0,6,101.0
+Oxygen Concentrator,Respiratory Equipment,2024,5,2,12.0,5.0,8.666666666666666,8.5,7.0,9,101.0
+Patient Monitor,Monitoring Equipment,2024,5,2,3.0,2.0,2.333333333333333,2.75,1.0,7,101.0
+Suction Machine,Surgical Equipment,2024,5,2,4.0,6.0,4.333333333333333,4.0,-2.0,4,101.0
+Surgical Headlight,Surgical Equipment,2024,5,2,4.0,0.0,1.3333333333333333,1.25,4.0,0,101.0
+Surgical Loupe,Surgical Equipment,2024,5,2,3.0,1.0,2.333333333333333,2.0,2.0,2,101.0
+Ventilator,Critical Care Equipment,2024,5,2,2.0,3.0,2.333333333333333,2.0,-1.0,4,101.0
+Walker,Mobility Equipment,2024,5,2,1.0,2.0,2.6666666666666665,3.0,-1.0,3,101.0
+Wheelchair,Mobility Equipment,2024,5,2,17.0,8.0,12.333333333333334,11.75,9.0,17,101.0
+BiPAP Machine,Respiratory Equipment,2024,6,2,3.0,12.0,5.666666666666667,5.6,-9.0,4,112.0
+CPAP Machine,Respiratory Equipment,2024,6,2,15.0,9.0,9.333333333333334,10.0,6.0,6,112.0
+Commode Chair,Mobility Equipment,2024,6,2,8.0,8.0,7.0,7.2,0.0,1,112.0
+ECG Machine,Diagnostic Equipment,2024,6,2,7.0,1.0,3.6666666666666665,3.6,6.0,3,112.0
+Fowler Bed,Patient Care Equipment,2024,6,2,9.0,11.0,8.333333333333334,6.8,-2.0,6,112.0
+Hospital Bed,Patient Care Equipment,2024,6,2,15.0,9.0,13.333333333333334,12.4,6.0,13,112.0
+Infusion Pump,Critical Care Equipment,2024,6,2,3.0,1.0,2.0,1.4,2.0,4,112.0
+Nebulizer,Respiratory Equipment,2024,6,2,6.0,4.0,6.0,5.2,2.0,5,112.0
+Oxygen Concentrator,Respiratory Equipment,2024,6,2,9.0,12.0,8.666666666666666,8.6,-3.0,14,112.0
+Patient Monitor,Monitoring Equipment,2024,6,2,7.0,3.0,4.0,3.6,4.0,5,112.0
+Suction Machine,Surgical Equipment,2024,6,2,4.0,4.0,4.666666666666667,4.0,0.0,4,112.0
+Surgical Headlight,Surgical Equipment,2024,6,2,0.0,4.0,1.3333333333333333,1.0,-4.0,5,112.0
+Surgical Loupe,Surgical Equipment,2024,6,2,2.0,3.0,2.0,2.0,-1.0,2,112.0
+Ventilator,Critical Care Equipment,2024,6,2,4.0,2.0,3.0,2.4,2.0,0,112.0
+Walker,Mobility Equipment,2024,6,2,3.0,1.0,2.0,3.0,2.0,4,112.0
+Wheelchair,Mobility Equipment,2024,6,2,17.0,17.0,14.0,12.8,0.0,17,112.0
+BiPAP Machine,Respiratory Equipment,2024,7,3,4.0,3.0,6.333333333333333,5.333333333333333,1.0,5,93.0
+CPAP Machine,Respiratory Equipment,2024,7,3,6.0,15.0,10.0,9.333333333333334,-9.0,7,93.0
+Commode Chair,Mobility Equipment,2024,7,3,1.0,8.0,5.666666666666667,6.166666666666667,-7.0,3,93.0
+ECG Machine,Diagnostic Equipment,2024,7,3,3.0,7.0,3.6666666666666665,3.5,-4.0,7,93.0
+Fowler Bed,Patient Care Equipment,2024,7,3,6.0,9.0,8.666666666666666,6.666666666666667,-3.0,5,93.0
+Hospital Bed,Patient Care Equipment,2024,7,3,13.0,15.0,12.333333333333334,12.5,-2.0,21,93.0
+Infusion Pump,Critical Care Equipment,2024,7,3,4.0,3.0,2.6666666666666665,1.8333333333333333,1.0,6,93.0
+Nebulizer,Respiratory Equipment,2024,7,3,5.0,6.0,5.0,5.166666666666667,-1.0,8,93.0
+Oxygen Concentrator,Respiratory Equipment,2024,7,3,14.0,9.0,11.666666666666666,9.5,5.0,10,93.0
+Patient Monitor,Monitoring Equipment,2024,7,3,5.0,7.0,5.0,3.8333333333333335,-2.0,7,93.0
+Suction Machine,Surgical Equipment,2024,7,3,4.0,4.0,4.0,4.0,0.0,3,93.0
+Surgical Headlight,Surgical Equipment,2024,7,3,5.0,0.0,3.0,1.6666666666666667,5.0,4,93.0
+Surgical Loupe,Surgical Equipment,2024,7,3,2.0,2.0,2.333333333333333,2.0,0.0,2,93.0
+Ventilator,Critical Care Equipment,2024,7,3,0.0,4.0,2.0,2.0,-4.0,1,93.0
+Walker,Mobility Equipment,2024,7,3,4.0,3.0,2.6666666666666665,3.1666666666666665,1.0,4,93.0
+Wheelchair,Mobility Equipment,2024,7,3,17.0,17.0,17.0,13.5,0.0,9,93.0
+BiPAP Machine,Respiratory Equipment,2024,8,3,5.0,4.0,4.0,5.0,1.0,6,102.0
+CPAP Machine,Respiratory Equipment,2024,8,3,7.0,6.0,9.333333333333334,9.333333333333334,1.0,8,102.0
+Commode Chair,Mobility Equipment,2024,8,3,3.0,1.0,4.0,5.0,2.0,4,102.0
+ECG Machine,Diagnostic Equipment,2024,8,3,7.0,3.0,5.666666666666667,4.166666666666667,4.0,5,102.0
+Fowler Bed,Patient Care Equipment,2024,8,3,5.0,6.0,6.666666666666667,7.333333333333333,-1.0,7,102.0
+Hospital Bed,Patient Care Equipment,2024,8,3,21.0,13.0,16.333333333333332,15.0,8.0,11,102.0
+Infusion Pump,Critical Care Equipment,2024,8,3,6.0,4.0,4.333333333333333,2.6666666666666665,2.0,3,102.0
+Nebulizer,Respiratory Equipment,2024,8,3,8.0,5.0,6.333333333333333,6.0,3.0,3,102.0
+Oxygen Concentrator,Respiratory Equipment,2024,8,3,10.0,14.0,11.0,9.833333333333334,-4.0,11,102.0
+Patient Monitor,Monitoring Equipment,2024,8,3,7.0,5.0,6.333333333333333,4.333333333333333,2.0,4,102.0
+Suction Machine,Surgical Equipment,2024,8,3,3.0,4.0,3.6666666666666665,4.0,-1.0,10,102.0
+Surgical Headlight,Surgical Equipment,2024,8,3,4.0,5.0,3.0,2.1666666666666665,-1.0,2,102.0
+Surgical Loupe,Surgical Equipment,2024,8,3,2.0,2.0,2.0,2.1666666666666665,0.0,4,102.0
+Ventilator,Critical Care Equipment,2024,8,3,1.0,0.0,1.6666666666666667,2.0,1.0,2,102.0
+Walker,Mobility Equipment,2024,8,3,4.0,4.0,3.6666666666666665,3.1666666666666665,0.0,5,102.0
+Wheelchair,Mobility Equipment,2024,8,3,9.0,17.0,14.333333333333334,13.333333333333334,-8.0,17,102.0
+BiPAP Machine,Respiratory Equipment,2024,9,3,6.0,5.0,5.0,5.333333333333333,1.0,5,102.0
+CPAP Machine,Respiratory Equipment,2024,9,3,8.0,7.0,7.0,8.166666666666666,1.0,7,102.0
+Commode Chair,Mobility Equipment,2024,9,3,4.0,3.0,2.6666666666666665,4.833333333333333,1.0,7,102.0
+ECG Machine,Diagnostic Equipment,2024,9,3,5.0,7.0,5.0,4.333333333333333,-2.0,2,102.0
+Fowler Bed,Patient Care Equipment,2024,9,3,7.0,5.0,6.0,7.166666666666667,2.0,8,102.0
+Hospital Bed,Patient Care Equipment,2024,9,3,11.0,21.0,15.0,14.166666666666666,-10.0,4,102.0
+Infusion Pump,Critical Care Equipment,2024,9,3,3.0,6.0,4.333333333333333,3.1666666666666665,-3.0,3,102.0
+Nebulizer,Respiratory Equipment,2024,9,3,3.0,8.0,5.333333333333333,5.666666666666667,-5.0,5,102.0
+Oxygen Concentrator,Respiratory Equipment,2024,9,3,11.0,10.0,11.666666666666666,10.166666666666666,1.0,10,102.0
+Patient Monitor,Monitoring Equipment,2024,9,3,4.0,7.0,5.333333333333333,4.666666666666667,-3.0,4,102.0
+Suction Machine,Surgical Equipment,2024,9,3,10.0,3.0,5.666666666666667,5.166666666666667,7.0,4,102.0
+Surgical Headlight,Surgical Equipment,2024,9,3,2.0,4.0,3.6666666666666665,2.5,-2.0,3,102.0
+Surgical Loupe,Surgical Equipment,2024,9,3,4.0,2.0,2.6666666666666665,2.333333333333333,2.0,4,102.0
+Ventilator,Critical Care Equipment,2024,9,3,2.0,1.0,1.0,2.0,1.0,5,102.0
+Walker,Mobility Equipment,2024,9,3,5.0,4.0,4.333333333333333,3.1666666666666665,1.0,2,102.0
+Wheelchair,Mobility Equipment,2024,9,3,17.0,9.0,14.333333333333334,14.166666666666666,8.0,10,102.0
+BiPAP Machine,Respiratory Equipment,2024,10,4,5.0,6.0,5.333333333333333,5.833333333333333,-1.0,4,83.0
+CPAP Machine,Respiratory Equipment,2024,10,4,7.0,8.0,7.333333333333333,8.666666666666666,-1.0,7,83.0
+Commode Chair,Mobility Equipment,2024,10,4,7.0,4.0,4.666666666666667,5.166666666666667,3.0,4,83.0
+ECG Machine,Diagnostic Equipment,2024,10,4,2.0,5.0,4.666666666666667,4.166666666666667,-3.0,1,83.0
+Fowler Bed,Patient Care Equipment,2024,10,4,8.0,7.0,6.666666666666667,7.666666666666667,1.0,8,83.0
+Hospital Bed,Patient Care Equipment,2024,10,4,4.0,11.0,12.0,12.166666666666666,-7.0,8,83.0
+Infusion Pump,Critical Care Equipment,2024,10,4,3.0,3.0,4.0,3.333333333333333,0.0,0,83.0
+Nebulizer,Respiratory Equipment,2024,10,4,5.0,3.0,5.333333333333333,5.166666666666667,2.0,3,83.0
+Oxygen Concentrator,Respiratory Equipment,2024,10,4,10.0,11.0,10.333333333333334,11.0,-1.0,11,83.0
+Patient Monitor,Monitoring Equipment,2024,10,4,4.0,4.0,5.0,5.0,0.0,9,83.0
+Suction Machine,Surgical Equipment,2024,10,4,4.0,10.0,5.666666666666667,4.833333333333333,-6.0,5,83.0
+Surgical Headlight,Surgical Equipment,2024,10,4,3.0,2.0,3.0,3.0,1.0,4,83.0
+Surgical Loupe,Surgical Equipment,2024,10,4,4.0,4.0,3.333333333333333,2.833333333333333,0.0,0,83.0
+Ventilator,Critical Care Equipment,2024,10,4,5.0,2.0,2.6666666666666665,2.333333333333333,3.0,3,83.0
+Walker,Mobility Equipment,2024,10,4,2.0,5.0,3.6666666666666665,3.1666666666666665,-3.0,3,83.0
+Wheelchair,Mobility Equipment,2024,10,4,10.0,17.0,12.0,14.5,-7.0,17,83.0
+BiPAP Machine,Respiratory Equipment,2024,11,4,4.0,5.0,5.0,4.5,-1.0,4,87.0
+CPAP Machine,Respiratory Equipment,2024,11,4,7.0,7.0,7.333333333333333,8.333333333333334,0.0,6,87.0
+Commode Chair,Mobility Equipment,2024,11,4,4.0,7.0,5.0,4.5,-3.0,4,87.0
+ECG Machine,Diagnostic Equipment,2024,11,4,1.0,2.0,2.6666666666666665,4.166666666666667,-1.0,5,87.0
+Fowler Bed,Patient Care Equipment,2024,11,4,8.0,8.0,7.666666666666667,7.166666666666667,0.0,7,87.0
+Hospital Bed,Patient Care Equipment,2024,11,4,8.0,4.0,7.666666666666667,12.0,4.0,11,87.0
+Infusion Pump,Critical Care Equipment,2024,11,4,0.0,3.0,2.0,3.1666666666666665,-3.0,1,87.0
+Nebulizer,Respiratory Equipment,2024,11,4,3.0,5.0,3.6666666666666665,5.0,-2.0,7,87.0
+Oxygen Concentrator,Respiratory Equipment,2024,11,4,11.0,10.0,10.666666666666666,10.833333333333334,1.0,7,87.0
+Patient Monitor,Monitoring Equipment,2024,11,4,9.0,4.0,5.666666666666667,6.0,5.0,1,87.0
+Suction Machine,Surgical Equipment,2024,11,4,5.0,4.0,6.333333333333333,5.0,1.0,6,87.0
+Surgical Headlight,Surgical Equipment,2024,11,4,4.0,3.0,3.0,3.0,1.0,3,87.0
+Surgical Loupe,Surgical Equipment,2024,11,4,0.0,4.0,2.6666666666666665,2.333333333333333,-4.0,2,87.0
+Ventilator,Critical Care Equipment,2024,11,4,3.0,5.0,3.333333333333333,2.5,-2.0,1,87.0
+Walker,Mobility Equipment,2024,11,4,3.0,2.0,3.333333333333333,3.5,1.0,1,87.0
+Wheelchair,Mobility Equipment,2024,11,4,17.0,10.0,14.666666666666666,14.5,7.0,9,87.0
+BiPAP Machine,Respiratory Equipment,2024,12,4,4.0,4.0,4.333333333333333,4.666666666666667,0.0,5,75.0
+CPAP Machine,Respiratory Equipment,2024,12,4,6.0,7.0,6.666666666666667,6.833333333333333,-1.0,2,75.0
+Commode Chair,Mobility Equipment,2024,12,4,4.0,4.0,5.0,3.8333333333333335,0.0,2,75.0
+ECG Machine,Diagnostic Equipment,2024,12,4,5.0,1.0,2.6666666666666665,3.8333333333333335,4.0,4,75.0
+Fowler Bed,Patient Care Equipment,2024,12,4,7.0,8.0,7.666666666666667,6.833333333333333,-1.0,7,75.0
+Hospital Bed,Patient Care Equipment,2024,12,4,11.0,8.0,7.666666666666667,11.333333333333334,3.0,12,75.0
+Infusion Pump,Critical Care Equipment,2024,12,4,1.0,0.0,1.3333333333333333,2.833333333333333,1.0,1,75.0
+Nebulizer,Respiratory Equipment,2024,12,4,7.0,3.0,5.0,5.166666666666667,4.0,8,75.0
+Oxygen Concentrator,Respiratory Equipment,2024,12,4,7.0,11.0,9.333333333333334,10.5,-4.0,10,75.0
+Patient Monitor,Monitoring Equipment,2024,12,4,1.0,9.0,4.666666666666667,5.0,-8.0,7,75.0
+Suction Machine,Surgical Equipment,2024,12,4,6.0,5.0,5.0,5.333333333333333,1.0,1,75.0
+Surgical Headlight,Surgical Equipment,2024,12,4,3.0,4.0,3.333333333333333,3.5,-1.0,3,75.0
+Surgical Loupe,Surgical Equipment,2024,12,4,2.0,0.0,2.0,2.333333333333333,2.0,1,75.0
+Ventilator,Critical Care Equipment,2024,12,4,1.0,3.0,3.0,2.0,-2.0,2,75.0
+Walker,Mobility Equipment,2024,12,4,1.0,3.0,2.0,3.1666666666666665,-2.0,3,75.0
+Wheelchair,Mobility Equipment,2024,12,4,9.0,17.0,12.0,13.166666666666666,-8.0,8,75.0
+BiPAP Machine,Respiratory Equipment,2025,1,1,5.0,4.0,4.333333333333333,4.833333333333333,1.0,7,76.0
+CPAP Machine,Respiratory Equipment,2025,1,1,2.0,6.0,5.0,6.166666666666667,-4.0,6,76.0
+Commode Chair,Mobility Equipment,2025,1,1,2.0,4.0,3.333333333333333,4.0,-2.0,2,76.0
+ECG Machine,Diagnostic Equipment,2025,1,1,4.0,5.0,3.333333333333333,4.0,-1.0,7,76.0
+Fowler Bed,Patient Care Equipment,2025,1,1,7.0,7.0,7.333333333333333,7.0,0.0,12,76.0
+Hospital Bed,Patient Care Equipment,2025,1,1,12.0,11.0,10.333333333333334,11.166666666666666,1.0,14,76.0
+Infusion Pump,Critical Care Equipment,2025,1,1,1.0,1.0,0.6666666666666666,2.333333333333333,0.0,3,76.0
+Nebulizer,Respiratory Equipment,2025,1,1,8.0,7.0,6.0,5.666666666666667,1.0,10,76.0
+Oxygen Concentrator,Respiratory Equipment,2025,1,1,10.0,7.0,9.333333333333334,9.833333333333334,3.0,6,76.0
+Patient Monitor,Monitoring Equipment,2025,1,1,7.0,1.0,5.666666666666667,5.333333333333333,6.0,7,76.0
+Suction Machine,Surgical Equipment,2025,1,1,1.0,6.0,4.0,4.833333333333333,-5.0,3,76.0
+Surgical Headlight,Surgical Equipment,2025,1,1,3.0,3.0,3.333333333333333,3.1666666666666665,0.0,2,76.0
+Surgical Loupe,Surgical Equipment,2025,1,1,1.0,2.0,1.0,2.1666666666666665,-1.0,3,76.0
+Ventilator,Critical Care Equipment,2025,1,1,2.0,1.0,2.0,2.333333333333333,1.0,4,76.0
+Walker,Mobility Equipment,2025,1,1,3.0,1.0,2.333333333333333,3.0,2.0,1,76.0
+Wheelchair,Mobility Equipment,2025,1,1,8.0,9.0,11.333333333333334,11.666666666666666,-1.0,9,76.0
+BiPAP Machine,Respiratory Equipment,2025,2,1,7.0,5.0,5.333333333333333,5.166666666666667,2.0,1,96.0
+CPAP Machine,Respiratory Equipment,2025,2,1,6.0,2.0,4.666666666666667,6.0,4.0,5,96.0
+Commode Chair,Mobility Equipment,2025,2,1,2.0,2.0,2.6666666666666665,3.8333333333333335,0.0,2,96.0
+ECG Machine,Diagnostic Equipment,2025,2,1,7.0,4.0,5.333333333333333,4.0,3.0,5,96.0
+Fowler Bed,Patient Care Equipment,2025,2,1,12.0,7.0,8.666666666666666,8.166666666666666,5.0,10,96.0
+Hospital Bed,Patient Care Equipment,2025,2,1,14.0,12.0,12.333333333333334,10.0,2.0,8,96.0
+Infusion Pump,Critical Care Equipment,2025,2,1,3.0,1.0,1.6666666666666667,1.8333333333333333,2.0,3,96.0
+Nebulizer,Respiratory Equipment,2025,2,1,10.0,8.0,8.333333333333334,6.0,2.0,10,96.0
+Oxygen Concentrator,Respiratory Equipment,2025,2,1,6.0,10.0,7.666666666666667,9.166666666666666,-4.0,5,96.0
+Patient Monitor,Monitoring Equipment,2025,2,1,7.0,7.0,5.0,5.333333333333333,0.0,3,96.0
+Suction Machine,Surgical Equipment,2025,2,1,3.0,1.0,3.333333333333333,4.833333333333333,2.0,8,96.0
+Surgical Headlight,Surgical Equipment,2025,2,1,2.0,3.0,2.6666666666666665,2.833333333333333,-1.0,2,96.0
+Surgical Loupe,Surgical Equipment,2025,2,1,3.0,1.0,2.0,2.333333333333333,2.0,2,96.0
+Ventilator,Critical Care Equipment,2025,2,1,4.0,2.0,2.333333333333333,2.833333333333333,2.0,2,96.0
+Walker,Mobility Equipment,2025,2,1,1.0,3.0,1.6666666666666667,2.5,-2.0,3,96.0
+Wheelchair,Mobility Equipment,2025,2,1,9.0,8.0,8.666666666666666,11.666666666666666,1.0,7,96.0
+BiPAP Machine,Respiratory Equipment,2025,3,1,1.0,7.0,4.333333333333333,4.333333333333333,-6.0,11,76.0
+CPAP Machine,Respiratory Equipment,2025,3,1,5.0,6.0,4.333333333333333,5.5,-1.0,9,76.0
+Commode Chair,Mobility Equipment,2025,3,1,2.0,2.0,2.0,3.5,0.0,6,76.0
+ECG Machine,Diagnostic Equipment,2025,3,1,5.0,7.0,5.333333333333333,4.0,-2.0,7,76.0
+Fowler Bed,Patient Care Equipment,2025,3,1,10.0,12.0,9.666666666666666,8.666666666666666,-2.0,6,76.0
+Hospital Bed,Patient Care Equipment,2025,3,1,8.0,14.0,11.333333333333334,9.5,-6.0,14,76.0
+Infusion Pump,Critical Care Equipment,2025,3,1,3.0,3.0,2.333333333333333,1.8333333333333333,0.0,7,76.0
+Nebulizer,Respiratory Equipment,2025,3,1,10.0,10.0,9.333333333333334,7.166666666666667,0.0,2,76.0
+Oxygen Concentrator,Respiratory Equipment,2025,3,1,5.0,6.0,7.0,8.166666666666666,-1.0,10,76.0
+Patient Monitor,Monitoring Equipment,2025,3,1,3.0,7.0,5.666666666666667,5.166666666666667,-4.0,6,76.0
+Suction Machine,Surgical Equipment,2025,3,1,8.0,3.0,4.0,4.5,5.0,4,76.0
+Surgical Headlight,Surgical Equipment,2025,3,1,2.0,2.0,2.333333333333333,2.833333333333333,0.0,5,76.0
+Surgical Loupe,Surgical Equipment,2025,3,1,2.0,3.0,2.0,2.0,-1.0,0,76.0
+Ventilator,Critical Care Equipment,2025,3,1,2.0,4.0,2.6666666666666665,2.833333333333333,-2.0,0,76.0
+Walker,Mobility Equipment,2025,3,1,3.0,1.0,2.333333333333333,2.1666666666666665,2.0,6,76.0
+Wheelchair,Mobility Equipment,2025,3,1,7.0,9.0,8.0,10.0,-2.0,9,76.0
+BiPAP Machine,Respiratory Equipment,2025,4,2,11.0,1.0,6.333333333333333,5.333333333333333,10.0,6,102.0
+CPAP Machine,Respiratory Equipment,2025,4,2,9.0,5.0,6.666666666666667,5.833333333333333,4.0,8,102.0
+Commode Chair,Mobility Equipment,2025,4,2,6.0,2.0,3.333333333333333,3.333333333333333,4.0,1,102.0
+ECG Machine,Diagnostic Equipment,2025,4,2,7.0,5.0,6.333333333333333,4.833333333333333,2.0,5,102.0
+Fowler Bed,Patient Care Equipment,2025,4,2,6.0,10.0,9.333333333333334,8.333333333333334,-4.0,5,102.0
+Hospital Bed,Patient Care Equipment,2025,4,2,14.0,8.0,12.0,11.166666666666666,6.0,11,102.0
+Infusion Pump,Critical Care Equipment,2025,4,2,7.0,3.0,4.333333333333333,2.5,4.0,5,102.0
+Nebulizer,Respiratory Equipment,2025,4,2,2.0,10.0,7.333333333333333,6.666666666666667,-8.0,4,102.0
+Oxygen Concentrator,Respiratory Equipment,2025,4,2,10.0,5.0,7.0,8.166666666666666,5.0,13,102.0
+Patient Monitor,Monitoring Equipment,2025,4,2,6.0,3.0,5.333333333333333,5.5,3.0,4,102.0
+Suction Machine,Surgical Equipment,2025,4,2,4.0,8.0,5.0,4.5,-4.0,6,102.0
+Surgical Headlight,Surgical Equipment,2025,4,2,5.0,2.0,3.0,3.1666666666666665,3.0,5,102.0
+Surgical Loupe,Surgical Equipment,2025,4,2,0.0,2.0,1.6666666666666667,1.3333333333333333,-2.0,2,102.0
+Ventilator,Critical Care Equipment,2025,4,2,0.0,2.0,2.0,2.0,-2.0,4,102.0
+Walker,Mobility Equipment,2025,4,2,6.0,3.0,3.333333333333333,2.833333333333333,3.0,5,102.0
+Wheelchair,Mobility Equipment,2025,4,2,9.0,7.0,8.333333333333334,9.833333333333334,2.0,13,102.0
+BiPAP Machine,Respiratory Equipment,2025,5,2,6.0,11.0,6.0,5.666666666666667,-5.0,5,97.0
+CPAP Machine,Respiratory Equipment,2025,5,2,8.0,9.0,7.333333333333333,6.0,-1.0,6,97.0
+Commode Chair,Mobility Equipment,2025,5,2,1.0,6.0,3.0,2.833333333333333,-5.0,7,97.0
+ECG Machine,Diagnostic Equipment,2025,5,2,5.0,7.0,5.666666666666667,5.5,-2.0,5,97.0
+Fowler Bed,Patient Care Equipment,2025,5,2,5.0,6.0,7.0,7.833333333333333,-1.0,8,97.0
+Hospital Bed,Patient Care Equipment,2025,5,2,11.0,14.0,11.0,11.666666666666666,-3.0,8,97.0
+Infusion Pump,Critical Care Equipment,2025,5,2,5.0,7.0,5.0,3.333333333333333,-2.0,4,97.0
+Nebulizer,Respiratory Equipment,2025,5,2,4.0,2.0,5.333333333333333,6.833333333333333,2.0,3,97.0
+Oxygen Concentrator,Respiratory Equipment,2025,5,2,13.0,10.0,9.333333333333334,8.5,3.0,8,97.0
+Patient Monitor,Monitoring Equipment,2025,5,2,4.0,6.0,4.333333333333333,4.666666666666667,-2.0,4,97.0
+Suction Machine,Surgical Equipment,2025,5,2,6.0,4.0,6.0,4.666666666666667,2.0,9,97.0
+Surgical Headlight,Surgical Equipment,2025,5,2,5.0,5.0,4.0,3.333333333333333,0.0,5,97.0
+Surgical Loupe,Surgical Equipment,2025,5,2,2.0,0.0,1.3333333333333333,1.6666666666666667,2.0,4,97.0
+Ventilator,Critical Care Equipment,2025,5,2,4.0,0.0,2.0,2.1666666666666665,4.0,0,97.0
+Walker,Mobility Equipment,2025,5,2,5.0,6.0,4.666666666666667,3.1666666666666665,-1.0,5,97.0
+Wheelchair,Mobility Equipment,2025,5,2,13.0,9.0,9.666666666666666,9.166666666666666,4.0,13,97.0
+BiPAP Machine,Respiratory Equipment,2025,6,2,5.0,6.0,7.333333333333333,5.833333333333333,-1.0,6,94.0
+CPAP Machine,Respiratory Equipment,2025,6,2,6.0,8.0,7.666666666666667,6.0,-2.0,14,94.0
+Commode Chair,Mobility Equipment,2025,6,2,7.0,1.0,4.666666666666667,3.333333333333333,6.0,6,94.0
+ECG Machine,Diagnostic Equipment,2025,6,2,5.0,5.0,5.666666666666667,5.5,0.0,2,94.0
+Fowler Bed,Patient Care Equipment,2025,6,2,8.0,5.0,6.333333333333333,8.0,3.0,10,94.0
+Hospital Bed,Patient Care Equipment,2025,6,2,8.0,11.0,11.0,11.166666666666666,-3.0,16,94.0
+Infusion Pump,Critical Care Equipment,2025,6,2,4.0,5.0,5.333333333333333,3.8333333333333335,-1.0,2,94.0
+Nebulizer,Respiratory Equipment,2025,6,2,3.0,4.0,3.0,6.166666666666667,-1.0,2,94.0
+Oxygen Concentrator,Respiratory Equipment,2025,6,2,8.0,13.0,10.333333333333334,8.666666666666666,-5.0,4,94.0
+Patient Monitor,Monitoring Equipment,2025,6,2,4.0,4.0,4.666666666666667,5.166666666666667,0.0,4,94.0
+Suction Machine,Surgical Equipment,2025,6,2,9.0,6.0,6.333333333333333,5.166666666666667,3.0,3,94.0
+Surgical Headlight,Surgical Equipment,2025,6,2,5.0,5.0,5.0,3.6666666666666665,0.0,1,94.0
+Surgical Loupe,Surgical Equipment,2025,6,2,4.0,2.0,2.0,2.0,2.0,1,94.0
+Ventilator,Critical Care Equipment,2025,6,2,0.0,4.0,1.3333333333333333,2.0,-4.0,2,94.0
+Walker,Mobility Equipment,2025,6,2,5.0,5.0,5.333333333333333,3.8333333333333335,0.0,0,94.0
+Wheelchair,Mobility Equipment,2025,6,2,13.0,13.0,11.666666666666666,9.833333333333334,0.0,16,94.0
+BiPAP Machine,Respiratory Equipment,2025,7,3,6.0,5.0,5.666666666666667,6.0,1.0,7,89.0
+CPAP Machine,Respiratory Equipment,2025,7,3,14.0,6.0,9.333333333333334,8.0,8.0,14,89.0
+Commode Chair,Mobility Equipment,2025,7,3,6.0,7.0,4.666666666666667,4.0,-1.0,6,89.0
+ECG Machine,Diagnostic Equipment,2025,7,3,2.0,5.0,4.0,5.166666666666667,-3.0,7,89.0
+Fowler Bed,Patient Care Equipment,2025,7,3,10.0,8.0,7.666666666666667,8.5,2.0,9,89.0
+Hospital Bed,Patient Care Equipment,2025,7,3,16.0,8.0,11.666666666666666,11.833333333333334,8.0,6,89.0
+Infusion Pump,Critical Care Equipment,2025,7,3,2.0,4.0,3.6666666666666665,4.0,-2.0,3,89.0
+Nebulizer,Respiratory Equipment,2025,7,3,2.0,3.0,3.0,5.166666666666667,-1.0,5,89.0
+Oxygen Concentrator,Respiratory Equipment,2025,7,3,4.0,8.0,8.333333333333334,7.666666666666667,-4.0,13,89.0
+Patient Monitor,Monitoring Equipment,2025,7,3,4.0,4.0,4.0,4.666666666666667,0.0,6,89.0
+Suction Machine,Surgical Equipment,2025,7,3,3.0,9.0,6.0,5.5,-6.0,3,89.0
+Surgical Headlight,Surgical Equipment,2025,7,3,1.0,5.0,3.6666666666666665,3.333333333333333,-4.0,2,89.0
+Surgical Loupe,Surgical Equipment,2025,7,3,1.0,4.0,2.333333333333333,2.0,-3.0,2,89.0
+Ventilator,Critical Care Equipment,2025,7,3,2.0,0.0,2.0,2.0,2.0,1,89.0
+Walker,Mobility Equipment,2025,7,3,0.0,5.0,3.333333333333333,3.333333333333333,-5.0,0,89.0
+Wheelchair,Mobility Equipment,2025,7,3,16.0,13.0,14.0,11.166666666666666,3.0,18,89.0
+BiPAP Machine,Respiratory Equipment,2025,8,3,7.0,6.0,6.0,6.0,1.0,4,102.0
+CPAP Machine,Respiratory Equipment,2025,8,3,14.0,14.0,11.333333333333334,9.333333333333334,0.0,10,102.0
+Commode Chair,Mobility Equipment,2025,8,3,6.0,6.0,6.333333333333333,4.666666666666667,0.0,5,102.0
+ECG Machine,Diagnostic Equipment,2025,8,3,7.0,2.0,4.666666666666667,5.166666666666667,5.0,3,102.0
+Fowler Bed,Patient Care Equipment,2025,8,3,9.0,10.0,9.0,8.0,-1.0,3,102.0
+Hospital Bed,Patient Care Equipment,2025,8,3,6.0,16.0,10.0,10.5,-10.0,11,102.0
+Infusion Pump,Critical Care Equipment,2025,8,3,3.0,2.0,3.0,4.0,1.0,6,102.0
+Nebulizer,Respiratory Equipment,2025,8,3,5.0,2.0,3.333333333333333,4.333333333333333,3.0,6,102.0
+Oxygen Concentrator,Respiratory Equipment,2025,8,3,13.0,4.0,8.333333333333334,8.833333333333334,9.0,8,102.0
+Patient Monitor,Monitoring Equipment,2025,8,3,6.0,4.0,4.666666666666667,4.5,2.0,6,102.0
+Suction Machine,Surgical Equipment,2025,8,3,3.0,3.0,5.0,5.5,0.0,6,102.0
+Surgical Headlight,Surgical Equipment,2025,8,3,2.0,1.0,2.6666666666666665,3.333333333333333,1.0,3,102.0
+Surgical Loupe,Surgical Equipment,2025,8,3,2.0,1.0,2.333333333333333,1.8333333333333333,1.0,0,102.0
+Ventilator,Critical Care Equipment,2025,8,3,1.0,2.0,1.0,1.5,-1.0,3,102.0
+Walker,Mobility Equipment,2025,8,3,0.0,0.0,1.6666666666666667,3.1666666666666665,0.0,5,102.0
+Wheelchair,Mobility Equipment,2025,8,3,18.0,16.0,15.666666666666666,12.666666666666666,2.0,13,102.0
+BiPAP Machine,Respiratory Equipment,2025,9,3,4.0,7.0,5.666666666666667,6.5,-3.0,3,92.0
+CPAP Machine,Respiratory Equipment,2025,9,3,10.0,14.0,12.666666666666666,10.166666666666666,-4.0,4,92.0
+Commode Chair,Mobility Equipment,2025,9,3,5.0,6.0,5.666666666666667,5.166666666666667,-1.0,8,92.0
+ECG Machine,Diagnostic Equipment,2025,9,3,3.0,7.0,4.0,4.833333333333333,-4.0,3,92.0
+Fowler Bed,Patient Care Equipment,2025,9,3,3.0,9.0,7.333333333333333,6.833333333333333,-6.0,8,92.0
+Hospital Bed,Patient Care Equipment,2025,9,3,11.0,6.0,11.0,11.0,5.0,9,92.0
+Infusion Pump,Critical Care Equipment,2025,9,3,6.0,3.0,3.6666666666666665,4.5,3.0,2,92.0
+Nebulizer,Respiratory Equipment,2025,9,3,6.0,5.0,4.333333333333333,3.6666666666666665,1.0,3,92.0
+Oxygen Concentrator,Respiratory Equipment,2025,9,3,8.0,13.0,8.333333333333334,9.333333333333334,-5.0,8,92.0
+Patient Monitor,Monitoring Equipment,2025,9,3,6.0,6.0,5.333333333333333,5.0,0.0,7,92.0
+Suction Machine,Surgical Equipment,2025,9,3,6.0,3.0,4.0,5.166666666666667,3.0,10,92.0
+Surgical Headlight,Surgical Equipment,2025,9,3,3.0,2.0,2.0,3.5,1.0,3,92.0
+Surgical Loupe,Surgical Equipment,2025,9,3,0.0,2.0,1.0,1.5,-2.0,1,92.0
+Ventilator,Critical Care Equipment,2025,9,3,3.0,1.0,2.0,1.6666666666666667,2.0,2,92.0
+Walker,Mobility Equipment,2025,9,3,5.0,0.0,1.6666666666666667,3.5,5.0,0,92.0
+Wheelchair,Mobility Equipment,2025,9,3,13.0,18.0,15.666666666666666,13.666666666666666,-5.0,17,92.0
+BiPAP Machine,Respiratory Equipment,2025,10,4,3.0,4.0,4.666666666666667,5.166666666666667,-1.0,5,88.0
+CPAP Machine,Respiratory Equipment,2025,10,4,4.0,10.0,9.333333333333334,9.333333333333334,-6.0,9,88.0
+Commode Chair,Mobility Equipment,2025,10,4,8.0,5.0,6.333333333333333,5.5,3.0,3,88.0
+ECG Machine,Diagnostic Equipment,2025,10,4,3.0,3.0,4.333333333333333,4.166666666666667,0.0,6,88.0
+Fowler Bed,Patient Care Equipment,2025,10,4,8.0,3.0,6.666666666666667,7.166666666666667,5.0,9,88.0
+Hospital Bed,Patient Care Equipment,2025,10,4,9.0,11.0,8.666666666666666,10.166666666666666,-2.0,9,88.0
+Infusion Pump,Critical Care Equipment,2025,10,4,2.0,6.0,3.6666666666666665,3.6666666666666665,-4.0,2,88.0
+Nebulizer,Respiratory Equipment,2025,10,4,3.0,6.0,4.666666666666667,3.8333333333333335,-3.0,4,88.0
+Oxygen Concentrator,Respiratory Equipment,2025,10,4,8.0,8.0,9.666666666666666,9.0,0.0,8,88.0
+Patient Monitor,Monitoring Equipment,2025,10,4,7.0,6.0,6.333333333333333,5.166666666666667,1.0,2,88.0
+Suction Machine,Surgical Equipment,2025,10,4,10.0,6.0,6.333333333333333,6.166666666666667,4.0,0,88.0
+Surgical Headlight,Surgical Equipment,2025,10,4,3.0,3.0,2.6666666666666665,3.1666666666666665,0.0,5,88.0
+Surgical Loupe,Surgical Equipment,2025,10,4,1.0,0.0,1.0,1.6666666666666667,1.0,2,88.0
+Ventilator,Critical Care Equipment,2025,10,4,2.0,3.0,2.0,2.0,-1.0,1,88.0
+Walker,Mobility Equipment,2025,10,4,0.0,5.0,1.6666666666666667,2.5,-5.0,1,88.0
+Wheelchair,Mobility Equipment,2025,10,4,17.0,13.0,16.0,15.0,4.0,6,88.0
+BiPAP Machine,Respiratory Equipment,2025,11,4,5.0,3.0,4.0,5.0,2.0,5,72.0
+CPAP Machine,Respiratory Equipment,2025,11,4,9.0,4.0,7.666666666666667,9.5,5.0,7,72.0
+Commode Chair,Mobility Equipment,2025,11,4,3.0,8.0,5.333333333333333,5.833333333333333,-5.0,2,72.0
+ECG Machine,Diagnostic Equipment,2025,11,4,6.0,3.0,4.0,4.333333333333333,3.0,3,72.0
+Fowler Bed,Patient Care Equipment,2025,11,4,9.0,8.0,6.666666666666667,7.833333333333333,1.0,1,72.0
+Hospital Bed,Patient Care Equipment,2025,11,4,9.0,9.0,9.666666666666666,9.833333333333334,0.0,8,72.0
+Infusion Pump,Critical Care Equipment,2025,11,4,2.0,2.0,3.333333333333333,3.1666666666666665,0.0,5,72.0
+Nebulizer,Respiratory Equipment,2025,11,4,4.0,3.0,4.333333333333333,3.8333333333333335,1.0,5,72.0
+Oxygen Concentrator,Respiratory Equipment,2025,11,4,8.0,8.0,8.0,8.166666666666666,0.0,6,72.0
+Patient Monitor,Monitoring Equipment,2025,11,4,2.0,7.0,5.0,4.833333333333333,-5.0,2,72.0
+Suction Machine,Surgical Equipment,2025,11,4,0.0,10.0,5.333333333333333,5.166666666666667,-10.0,6,72.0
+Surgical Headlight,Surgical Equipment,2025,11,4,5.0,3.0,3.6666666666666665,3.1666666666666665,2.0,3,72.0
+Surgical Loupe,Surgical Equipment,2025,11,4,2.0,1.0,1.0,1.6666666666666667,1.0,0,72.0
+Ventilator,Critical Care Equipment,2025,11,4,1.0,2.0,2.0,1.5,-1.0,2,72.0
+Walker,Mobility Equipment,2025,11,4,1.0,0.0,2.0,1.8333333333333333,1.0,4,72.0
+Wheelchair,Mobility Equipment,2025,11,4,6.0,17.0,12.0,13.833333333333334,-11.0,9,72.0
+BiPAP Machine,Respiratory Equipment,2025,12,4,5.0,5.0,4.333333333333333,5.0,0.0,3,68.0
+CPAP Machine,Respiratory Equipment,2025,12,4,7.0,9.0,6.666666666666667,9.666666666666666,-2.0,9,68.0
+Commode Chair,Mobility Equipment,2025,12,4,2.0,3.0,4.333333333333333,5.0,-1.0,5,68.0
+ECG Machine,Diagnostic Equipment,2025,12,4,3.0,6.0,4.0,4.0,-3.0,6,68.0
+Fowler Bed,Patient Care Equipment,2025,12,4,1.0,9.0,6.0,6.666666666666667,-8.0,7,68.0
+Hospital Bed,Patient Care Equipment,2025,12,4,8.0,9.0,8.666666666666666,9.833333333333334,-1.0,9,68.0
+Infusion Pump,Critical Care Equipment,2025,12,4,5.0,2.0,3.0,3.333333333333333,3.0,1,68.0
+Nebulizer,Respiratory Equipment,2025,12,4,5.0,4.0,4.0,4.166666666666667,1.0,5,68.0
+Oxygen Concentrator,Respiratory Equipment,2025,12,4,6.0,8.0,7.333333333333333,7.833333333333333,-2.0,13,68.0
+Patient Monitor,Monitoring Equipment,2025,12,4,2.0,2.0,3.6666666666666665,4.5,0.0,6,68.0
+Suction Machine,Surgical Equipment,2025,12,4,6.0,0.0,5.333333333333333,4.666666666666667,6.0,9,68.0
+Surgical Headlight,Surgical Equipment,2025,12,4,3.0,5.0,3.6666666666666665,2.833333333333333,-2.0,1,68.0
+Surgical Loupe,Surgical Equipment,2025,12,4,0.0,2.0,1.0,1.0,-2.0,2,68.0
+Ventilator,Critical Care Equipment,2025,12,4,2.0,1.0,1.6666666666666667,1.8333333333333333,1.0,4,68.0
+Walker,Mobility Equipment,2025,12,4,4.0,1.0,1.6666666666666667,1.6666666666666667,3.0,2,68.0
+Wheelchair,Mobility Equipment,2025,12,4,9.0,6.0,10.666666666666666,13.166666666666666,3.0,20,68.0
+BiPAP Machine,Respiratory Equipment,2026,1,1,3.0,5.0,4.333333333333333,4.5,-2.0,2,102.0
+CPAP Machine,Respiratory Equipment,2026,1,1,9.0,7.0,8.333333333333334,8.833333333333334,2.0,6,102.0
+Commode Chair,Mobility Equipment,2026,1,1,5.0,2.0,3.333333333333333,4.833333333333333,3.0,5,102.0
+ECG Machine,Diagnostic Equipment,2026,1,1,6.0,3.0,5.0,4.666666666666667,3.0,4,102.0
+Fowler Bed,Patient Care Equipment,2026,1,1,7.0,1.0,5.666666666666667,6.166666666666667,6.0,6,102.0
+Hospital Bed,Patient Care Equipment,2026,1,1,9.0,8.0,8.666666666666666,8.666666666666666,1.0,18,102.0
+Infusion Pump,Critical Care Equipment,2026,1,1,1.0,5.0,2.6666666666666665,3.1666666666666665,-4.0,3,102.0
+Nebulizer,Respiratory Equipment,2026,1,1,5.0,5.0,4.666666666666667,4.666666666666667,0.0,4,102.0
+Oxygen Concentrator,Respiratory Equipment,2026,1,1,13.0,6.0,9.0,9.333333333333334,7.0,5,102.0
+Patient Monitor,Monitoring Equipment,2026,1,1,6.0,2.0,3.333333333333333,4.833333333333333,4.0,4,102.0
+Suction Machine,Surgical Equipment,2026,1,1,9.0,6.0,5.0,5.666666666666667,3.0,7,102.0
+Surgical Headlight,Surgical Equipment,2026,1,1,1.0,3.0,3.0,2.833333333333333,-2.0,7,102.0
+Surgical Loupe,Surgical Equipment,2026,1,1,2.0,0.0,1.3333333333333333,1.1666666666666667,2.0,6,102.0
+Ventilator,Critical Care Equipment,2026,1,1,4.0,2.0,2.333333333333333,2.1666666666666665,2.0,3,102.0
+Walker,Mobility Equipment,2026,1,1,2.0,4.0,2.333333333333333,2.0,-2.0,1,102.0
+Wheelchair,Mobility Equipment,2026,1,1,20.0,9.0,11.666666666666666,13.833333333333334,11.0,11,102.0
+BiPAP Machine,Respiratory Equipment,2026,2,1,2.0,3.0,3.333333333333333,3.6666666666666665,-1.0,4,92.0
+CPAP Machine,Respiratory Equipment,2026,2,1,6.0,9.0,7.333333333333333,7.5,-3.0,16,92.0
+Commode Chair,Mobility Equipment,2026,2,1,5.0,5.0,4.0,4.666666666666667,0.0,9,92.0
+ECG Machine,Diagnostic Equipment,2026,2,1,4.0,6.0,4.333333333333333,4.166666666666667,-2.0,3,92.0
+Fowler Bed,Patient Care Equipment,2026,2,1,6.0,7.0,4.666666666666667,5.666666666666667,-1.0,23,92.0
+Hospital Bed,Patient Care Equipment,2026,2,1,18.0,9.0,11.666666666666666,10.666666666666666,9.0,26,92.0
+Infusion Pump,Critical Care Equipment,2026,2,1,3.0,1.0,3.0,3.1666666666666665,2.0,9,92.0
+Nebulizer,Respiratory Equipment,2026,2,1,4.0,5.0,4.666666666666667,4.5,-1.0,12,92.0
+Oxygen Concentrator,Respiratory Equipment,2026,2,1,5.0,13.0,8.0,8.0,-8.0,14,92.0
+Patient Monitor,Monitoring Equipment,2026,2,1,4.0,6.0,4.0,4.5,-2.0,13,92.0
+Suction Machine,Surgical Equipment,2026,2,1,7.0,9.0,7.333333333333333,6.333333333333333,-2.0,20,92.0
+Surgical Headlight,Surgical Equipment,2026,2,1,7.0,1.0,3.6666666666666665,3.6666666666666665,6.0,4,92.0
+Surgical Loupe,Surgical Equipment,2026,2,1,6.0,2.0,2.6666666666666665,1.8333333333333333,4.0,1,92.0
+Ventilator,Critical Care Equipment,2026,2,1,3.0,4.0,3.0,2.5,-1.0,3,92.0
+Walker,Mobility Equipment,2026,2,1,1.0,2.0,2.333333333333333,2.1666666666666665,-1.0,6,92.0
+Wheelchair,Mobility Equipment,2026,2,1,11.0,20.0,13.333333333333334,12.666666666666666,-9.0,21,92.0
+BiPAP Machine,Respiratory Equipment,2026,3,1,4.0,2.0,3.0,3.6666666666666665,2.0,11,184.0
+CPAP Machine,Respiratory Equipment,2026,3,1,16.0,6.0,10.333333333333334,8.5,10.0,13,184.0
+Commode Chair,Mobility Equipment,2026,3,1,9.0,5.0,6.333333333333333,5.333333333333333,4.0,12,184.0
+ECG Machine,Diagnostic Equipment,2026,3,1,3.0,4.0,4.333333333333333,4.166666666666667,-1.0,9,184.0
+Fowler Bed,Patient Care Equipment,2026,3,1,23.0,6.0,12.0,9.0,17.0,16,184.0
+Hospital Bed,Patient Care Equipment,2026,3,1,26.0,18.0,17.666666666666668,13.166666666666666,8.0,40,184.0
+Infusion Pump,Critical Care Equipment,2026,3,1,9.0,3.0,4.333333333333333,3.6666666666666665,6.0,7,184.0
+Nebulizer,Respiratory Equipment,2026,3,1,12.0,4.0,7.0,5.5,8.0,14,184.0
+Oxygen Concentrator,Respiratory Equipment,2026,3,1,14.0,5.0,10.666666666666666,9.0,9.0,20,184.0
+Patient Monitor,Monitoring Equipment,2026,3,1,13.0,4.0,7.666666666666667,5.666666666666667,9.0,11,184.0
+Suction Machine,Surgical Equipment,2026,3,1,20.0,7.0,12.0,8.666666666666666,13.0,11,184.0
+Surgical Headlight,Surgical Equipment,2026,3,1,4.0,7.0,4.0,3.8333333333333335,-3.0,10,184.0
+Surgical Loupe,Surgical Equipment,2026,3,1,1.0,6.0,3.0,2.0,-5.0,7,184.0
+Ventilator,Critical Care Equipment,2026,3,1,3.0,3.0,3.333333333333333,2.5,0.0,7,184.0
+Walker,Mobility Equipment,2026,3,1,6.0,1.0,3.0,2.333333333333333,5.0,8,184.0
+Wheelchair,Mobility Equipment,2026,3,1,21.0,11.0,17.333333333333332,14.0,10.0,31,184.0
+BiPAP Machine,Respiratory Equipment,2026,4,2,11.0,4.0,5.666666666666667,5.0,7.0,15,227.0
+CPAP Machine,Respiratory Equipment,2026,4,2,13.0,16.0,11.666666666666666,10.0,-3.0,17,227.0
+Commode Chair,Mobility Equipment,2026,4,2,12.0,9.0,8.666666666666666,6.0,3.0,10,227.0
+ECG Machine,Diagnostic Equipment,2026,4,2,9.0,3.0,5.333333333333333,5.166666666666667,6.0,8,227.0
+Fowler Bed,Patient Care Equipment,2026,4,2,16.0,23.0,15.0,10.333333333333334,-7.0,18,227.0
+Hospital Bed,Patient Care Equipment,2026,4,2,40.0,26.0,28.0,18.33333333333333,14.0,28,227.0
+Infusion Pump,Critical Care Equipment,2026,4,2,7.0,9.0,6.333333333333333,4.5,-2.0,8,227.0
+Nebulizer,Respiratory Equipment,2026,4,2,14.0,12.0,10.0,7.333333333333333,2.0,13,227.0
+Oxygen Concentrator,Respiratory Equipment,2026,4,2,20.0,14.0,13.0,11.0,6.0,23,227.0
+Patient Monitor,Monitoring Equipment,2026,4,2,11.0,13.0,9.333333333333334,6.333333333333333,-2.0,10,227.0
+Suction Machine,Surgical Equipment,2026,4,2,11.0,20.0,12.666666666666666,8.833333333333334,-9.0,10,227.0
+Surgical Headlight,Surgical Equipment,2026,4,2,10.0,4.0,7.0,5.0,6.0,6,227.0
+Surgical Loupe,Surgical Equipment,2026,4,2,7.0,1.0,4.666666666666667,3.0,6.0,1,227.0
+Ventilator,Critical Care Equipment,2026,4,2,7.0,3.0,4.333333333333333,3.333333333333333,4.0,4,227.0
+Walker,Mobility Equipment,2026,4,2,8.0,6.0,5.0,3.6666666666666665,2.0,6,227.0
+Wheelchair,Mobility Equipment,2026,4,2,31.0,21.0,21.0,16.333333333333332,10.0,23,227.0
+BiPAP Machine,Respiratory Equipment,2026,5,2,15.0,11.0,10.0,6.666666666666667,4.0,16,200.0
+CPAP Machine,Respiratory Equipment,2026,5,2,17.0,13.0,15.333333333333334,11.333333333333334,4.0,25,200.0
+Commode Chair,Mobility Equipment,2026,5,2,10.0,12.0,10.333333333333334,7.166666666666667,-2.0,10,200.0
+ECG Machine,Diagnostic Equipment,2026,5,2,8.0,9.0,6.666666666666667,5.5,-1.0,10,200.0
+Fowler Bed,Patient Care Equipment,2026,5,2,18.0,16.0,19.0,11.833333333333334,2.0,16,200.0
+Hospital Bed,Patient Care Equipment,2026,5,2,28.0,40.0,31.33333333333333,21.5,-12.0,21,200.0
+Infusion Pump,Critical Care Equipment,2026,5,2,8.0,7.0,8.0,5.5,1.0,13,200.0
+Nebulizer,Respiratory Equipment,2026,5,2,13.0,14.0,13.0,8.833333333333334,-1.0,9,200.0
+Oxygen Concentrator,Respiratory Equipment,2026,5,2,23.0,20.0,19.0,13.5,3.0,23,200.0
+Patient Monitor,Monitoring Equipment,2026,5,2,10.0,11.0,11.333333333333334,7.666666666666667,-1.0,16,200.0
+Suction Machine,Surgical Equipment,2026,5,2,10.0,11.0,13.666666666666666,10.5,-1.0,15,200.0
+Surgical Headlight,Surgical Equipment,2026,5,2,6.0,10.0,6.666666666666667,5.166666666666667,-4.0,5,200.0
+Surgical Loupe,Surgical Equipment,2026,5,2,1.0,7.0,3.0,2.833333333333333,-6.0,5,200.0
+Ventilator,Critical Care Equipment,2026,5,2,4.0,7.0,4.666666666666667,3.8333333333333335,-3.0,2,200.0
+Walker,Mobility Equipment,2026,5,2,6.0,8.0,6.666666666666667,4.5,-2.0,5,200.0
+Wheelchair,Mobility Equipment,2026,5,2,23.0,31.0,25.0,19.166666666666668,-8.0,30,200.0
+BiPAP Machine,Respiratory Equipment,2026,6,2,16.0,15.0,14.0,8.5,1.0,13,221.0
+CPAP Machine,Respiratory Equipment,2026,6,2,25.0,17.0,18.33333333333333,14.333333333333334,8.0,13,221.0
+Commode Chair,Mobility Equipment,2026,6,2,10.0,10.0,10.666666666666666,8.5,0.0,5,221.0
+ECG Machine,Diagnostic Equipment,2026,6,2,10.0,8.0,9.0,6.666666666666667,2.0,9,221.0
+Fowler Bed,Patient Care Equipment,2026,6,2,16.0,18.0,16.666666666666668,14.333333333333334,-2.0,18,221.0
+Hospital Bed,Patient Care Equipment,2026,6,2,21.0,28.0,29.666666666666668,23.666666666666668,-7.0,30,221.0
+Infusion Pump,Critical Care Equipment,2026,6,2,13.0,8.0,9.333333333333334,6.833333333333333,5.0,4,221.0
+Nebulizer,Respiratory Equipment,2026,6,2,9.0,13.0,12.0,9.5,-4.0,10,221.0
+Oxygen Concentrator,Respiratory Equipment,2026,6,2,23.0,23.0,22.0,16.333333333333332,0.0,27,221.0
+Patient Monitor,Monitoring Equipment,2026,6,2,16.0,10.0,12.333333333333334,10.0,6.0,13,221.0
+Suction Machine,Surgical Equipment,2026,6,2,15.0,10.0,12.0,12.0,5.0,9,221.0
+Surgical Headlight,Surgical Equipment,2026,6,2,5.0,6.0,7.0,5.5,-1.0,4,221.0
+Surgical Loupe,Surgical Equipment,2026,6,2,5.0,1.0,4.333333333333333,3.6666666666666665,4.0,8,221.0
+Ventilator,Critical Care Equipment,2026,6,2,2.0,4.0,4.333333333333333,3.8333333333333335,-2.0,6,221.0
+Walker,Mobility Equipment,2026,6,2,5.0,6.0,6.333333333333333,4.666666666666667,-1.0,3,221.0
+Wheelchair,Mobility Equipment,2026,6,2,30.0,23.0,28.0,22.666666666666668,7.0,24,221.0
+BiPAP Machine,Respiratory Equipment,2026,7,3,13.0,16.0,14.666666666666666,10.166666666666666,-3.0,15,196.0
+CPAP Machine,Respiratory Equipment,2026,7,3,13.0,25.0,18.33333333333333,15.0,-12.0,17,196.0
+Commode Chair,Mobility Equipment,2026,7,3,5.0,10.0,8.333333333333334,8.5,-5.0,21,196.0
+ECG Machine,Diagnostic Equipment,2026,7,3,9.0,10.0,9.0,7.166666666666667,-1.0,12,196.0
+Fowler Bed,Patient Care Equipment,2026,7,3,18.0,16.0,17.333333333333332,16.166666666666668,2.0,18,196.0
+Hospital Bed,Patient Care Equipment,2026,7,3,30.0,21.0,26.33333333333333,27.166666666666668,9.0,25,196.0
+Infusion Pump,Critical Care Equipment,2026,7,3,4.0,13.0,8.333333333333334,7.333333333333333,-9.0,9,196.0
+Nebulizer,Respiratory Equipment,2026,7,3,10.0,9.0,10.666666666666666,10.333333333333334,1.0,8,196.0
+Oxygen Concentrator,Respiratory Equipment,2026,7,3,27.0,23.0,24.33333333333333,18.666666666666668,4.0,17,196.0
+Patient Monitor,Monitoring Equipment,2026,7,3,13.0,16.0,13.0,11.166666666666666,-3.0,13,196.0
+Suction Machine,Surgical Equipment,2026,7,3,9.0,15.0,11.333333333333334,12.0,-6.0,21,196.0
+Surgical Headlight,Surgical Equipment,2026,7,3,4.0,5.0,5.0,6.0,-1.0,10,196.0
+Surgical Loupe,Surgical Equipment,2026,7,3,8.0,5.0,4.666666666666667,4.666666666666667,3.0,4,196.0
+Ventilator,Critical Care Equipment,2026,7,3,6.0,2.0,4.0,4.166666666666667,4.0,6,196.0
+Walker,Mobility Equipment,2026,7,3,3.0,5.0,4.666666666666667,4.833333333333333,-2.0,6,196.0
+Wheelchair,Mobility Equipment,2026,7,3,24.0,30.0,25.666666666666668,23.33333333333333,-6.0,34,196.0
