@@ -216,15 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Node / Frontend
-node_modules/
-*/node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-.env.local
-.env.*.local
-frontend/dist/
-frontend/.next/
